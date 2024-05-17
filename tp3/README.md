@@ -68,4 +68,4 @@ int main(int argc, char *argv[])
 	pthread_exit(NULL); // como los hilos que cree ya terminaron de ejecutarse, termino yo tambien.
 }
 
-B)  <img src="./tp3/hamburguesa.png" />
+B)  <img src="ASO2024TPs/tp3/hamburguesa.png" />
